@@ -18,6 +18,7 @@ C:\Users\rbarb\source\repos\giovanna\PhoneList\obj\Debug\PhoneList.csproj.Genera
 C:\Users\rbarb\source\repos\giovanna\PhoneList\obj\Debug\PhoneList.csproj.CoreCompileInputs.cache
 C:\Users\rbarb\source\repos\giovanna\PhoneList\obj\Debug\PhoneList.exe
 C:\Users\rbarb\source\repos\giovanna\PhoneList\obj\Debug\PhoneList.pdb
+<<<<<<< HEAD
 C:\Users\rbarb\Source\Repos\listaTelefonica2\PhoneList\bin\Debug\PhoneList.exe.config
 C:\Users\rbarb\Source\Repos\listaTelefonica2\PhoneList\bin\Debug\PhoneList.exe
 C:\Users\rbarb\Source\Repos\listaTelefonica2\PhoneList\bin\Debug\PhoneList.pdb
@@ -28,3 +29,5 @@ C:\Users\rbarb\Source\Repos\listaTelefonica2\PhoneList\obj\Debug\PhoneList.cspro
 C:\Users\rbarb\Source\Repos\listaTelefonica2\PhoneList\obj\Debug\PhoneList.csproj.CoreCompileInputs.cache
 C:\Users\rbarb\Source\Repos\listaTelefonica2\PhoneList\obj\Debug\PhoneList.exe
 C:\Users\rbarb\Source\Repos\listaTelefonica2\PhoneList\obj\Debug\PhoneList.pdb
+=======
+>>>>>>> 7c4d935baf96d3658d7b73c9159deb1b15655625
